@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Testing Git</string>
     <string name="text">Hej och välkommen till appen!</string>
+    <string name="name">Skriv ditt namn!</string>
+    <string name="tel">Skriv ditt telefonnummer!</string>
+    <string name="button">tryck!!</string>
 </resources>
