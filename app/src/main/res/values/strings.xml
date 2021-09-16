@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Testing Git</string>
+    <string name="text">Hej och välkommen till appen!</string>
+</resources>
