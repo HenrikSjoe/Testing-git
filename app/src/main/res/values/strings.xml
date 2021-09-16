@@ -4,6 +4,7 @@
     <string name="name">Skriv ditt namn!</string>
     <string name="tel">Skriv ditt telefonnummer!</string>
     <string name="number">Skriv in ett nummer!</string>
+    <string name="mamma">Hej Farmor!!</string>
     <string name="button">tryck!!</string>
 
 </resources>
